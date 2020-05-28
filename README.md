@@ -1,5 +1,5 @@
 # Shortcutter 0.1.0
-*I made this for myself before I had seen Unity's [quicksearch package](https://docs.unity3d.com/Packages/com.unity.quicksearch@1.1/manual/index.html).*
+*I made this for myself before I had seen Unity's [quicksearch package](https://docs.unity3d.com/Packages/com.unity.quicksearch@1.1/manual/index.html). Have a look at that instead.*
 
 **
 Simple searchbar to quickly find and trigger Unity shortcuts without having to assign key bindings, making the editor more accessible and efficient.
