@@ -1,5 +1,9 @@
 # Shortcutter
-Simple searchbar to quickly find and trigger Unity shortcuts without assigning key bindings, including automatically generated shortcuts from assets and user scripts like adding components or accessing menu items.
+*I made this for myself before I had seen Unity's quicksearch package. Check that one out instead.*
+https://docs.unity3d.com/Packages/com.unity.quicksearch@1.1/manual/index.html
+
+
+Simple searchbar to quickly find and trigger Unity shortcuts without assigning key bindings.
 
 Install via package manager: *Add package from git URL...* and paste the link to this repository.
 
