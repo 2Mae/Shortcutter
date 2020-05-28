@@ -29,7 +29,7 @@ namespace Shortcutter
 		}
 		ListView listView;
 
-		[MenuItem("Window/" + theTitle + " %t")]
+		[MenuItem("Window/" + theTitle)]
 		public static void ShowWindow() { GetWindow<Window>().OnShow(); }
 
 		public void UpdateInput(string input)
